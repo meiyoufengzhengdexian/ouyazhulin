@@ -1,0 +1,10 @@
+.mendian{
+    display: none;
+}
+.links{
+    position: relative;
+    left:-20px;
+}
+.table-border-top{
+    border-top:1px dashed #73879c;
+}
